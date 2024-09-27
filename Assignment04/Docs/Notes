@@ -1,0 +1,1 @@
+The -a option tells OpenSSL to encode the encrypted message using a different encoding method of Base64 before storing the results in a file.
