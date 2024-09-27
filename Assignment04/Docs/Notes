@@ -1,3 +1,4 @@
 The -a option tells OpenSSL to encode the encrypted message using a different encoding method of Base64 before storing the results in a file.
 Private keys are for decryption, public keys are for encryption and verification.
 The primary purpose of self signed certificate is to enable secure communication within a closed network. It is a certificate signed by the person who created it instead of a trusted certificate authority. Primarly it is used for testing purposes or internal usage and not used in production systems on the internet.
+A decrypted file should match the original message because decryption is the process of converting an encrypted file back to its original format.
